@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anas Aldadi 👋
 
-<!--
-**AnasKAN/AnasKAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bachelor's in Computer Science**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Text-To-Speech (TTS)** projects
+- 🌱 Lifelong learner, currently deepening my knowledge in **Mathematics** (always will be)
+- 💬 Feel free to ask me about **AI**, and I'll do my best to help
+- 📫 Reach me at: **anasaldadi@gmail.com**
+- ⚡ Fun fact: I love **Math** and **Computer Vision**
+
+---
+
+## 🎓 Certifications & Programs
+- **Machine Learning Practitioner** – Professional Certificate from **SDAIA**
+- **AI Summer School Alumnus** – **KAUST-Oxford (LMH)**
+
+## 🧑‍🔬 Research Experience
+- Research Internship in **Optimization of Tafweej** @ HURI (Hajj and Umrah Research Institution)
+- Research Internship in the field of **Text-To-Speech (TTS)** @ DeepScan technologies
+
+---
